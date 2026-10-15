@@ -1,0 +1,13 @@
+{
+  "name": "linkedin-outbound",
+  "version": "1.0.0",
+  "description": "Five skills for LinkedIn outbound: define an ICP, write value offers, review a message sequence, triage replies, and run a weekly outbound review.",
+  "author": {
+    "name": "GTM Bud",
+    "url": "https://gtmbud.com/?utm_source=github&utm_medium=readme&utm_campaign=github-oss&utm_content=linkedin-outbound-skills"
+  },
+  "homepage": "https://github.com/startino/linkedin-outbound-skills",
+  "repository": "https://github.com/startino/linkedin-outbound-skills",
+  "license": "MIT",
+  "keywords": ["linkedin", "outbound", "sales", "icp", "prospecting", "agent-skills"]
+}

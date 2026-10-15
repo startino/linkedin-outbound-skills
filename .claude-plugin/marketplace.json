@@ -1,0 +1,19 @@
+{
+  "name": "linkedin-outbound-skills",
+  "owner": {
+    "name": "GTM Bud",
+    "url": "https://gtmbud.com/?utm_source=github&utm_medium=readme&utm_campaign=github-oss&utm_content=linkedin-outbound-skills"
+  },
+  "metadata": {
+    "description": "Free LinkedIn outbound skills by GTM Bud: ICP, value offers, message review, reply triage and weekly review."
+  },
+  "plugins": [
+    {
+      "name": "linkedin-outbound",
+      "source": "./plugins/linkedin-outbound",
+      "description": "Five skills for LinkedIn outbound: define an ICP, write value offers, review a message sequence, triage replies, and run a weekly outbound review.",
+      "category": "productivity",
+      "tags": ["linkedin", "outbound", "sales", "icp", "prospecting"]
+    }
+  ]
+}
